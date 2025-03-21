@@ -1,0 +1,15 @@
+setuptools
+joblib
+matplotlib
+numpy<2.0.0
+opencv-python
+pandas
+Pillow
+scikeras
+scikit_learn
+scikit_optimize
+scipy
+streamlit
+tensorflow==2.10.1
+streamlit-webrtc
+tqdm
